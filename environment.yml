@@ -1,0 +1,19 @@
+name: TechWebinar
+channels:
+  - conda-forge
+dependencies:
+  - bokeh
+  - cartopy
+  - cf-units
+  - erddapy
+  - folium
+  - geolinks
+  - geopandas
+  - hvplot
+  - ioos-tools
+  - matplotlib
+  - owslib
+  - pandas
+  - pyoos
+  - retrying
+  - shapely
